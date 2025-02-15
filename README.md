@@ -1,4 +1,4 @@
-> [!WARNING]
+> [!CAUTION]
 > The script will rename **ALL** files that end with the specified extension and are in the specified directories.
 
 > [!NOTE]
