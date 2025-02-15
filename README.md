@@ -2,7 +2,7 @@
 > The script will rename **ALL** files that end with the specified extension and are in the specified directories.
 
 > [!NOTE]
-> Some antivirus programs may flag this script as potentially malicious due to its ability to rename files, which can resemble ransomware behaviour. You may need to create an exception to run it.
+> Some antivirus programs may flag this script as potentially malicious due to its ability to rename files, which resemble ransomware behaviour. You may need to create an exception to run it.
 
 ## 📋 Description
 **ReDOT** is a batch script designed to simplify the process of renaming files in Windows. It allows users to select custom directories from a list and specify a file extension to rename.
