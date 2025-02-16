@@ -20,3 +20,4 @@
 4. Select a directory number.
 5. Enter a file extension to rename (example: *.mp3*).
 6. Enter the new extension name (example: *.opus*).
+
