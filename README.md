@@ -21,3 +21,5 @@
 5. Enter a file extension to rename (example: *.mp3*).
 6. Enter the new extension name (example: *.opus*).
 
+## 🌐 Statistics
+![Alt](https://repobeats.axiom.co/api/embed/194993bef19dba02d88f02d8b70627e9621192f3.svg "Repobeats analytics image")
