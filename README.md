@@ -18,8 +18,8 @@
 2. The script will automatically generate a `settings.ini` file and open it in Notepad. In this file, enter the directory path where the script should scan for files.
 3. Close the `settings.ini` file.
 4. Select a directory number.
-5. Enter a file extension to rename (example: *.mp3*).
-6. Enter the new extension name (example: *.opus*).
+5. Enter a file extension to rename.
+6. Enter the new extension name.
 
 ## 🌐 Statistics
 ![Alt](https://repobeats.axiom.co/api/embed/194993bef19dba02d88f02d8b70627e9621192f3.svg "Repobeats analytics image")
