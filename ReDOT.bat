@@ -94,7 +94,7 @@ echo.
 set /p rename_all="Rename matching files in these directories? (Y/N): "
 if /i "!rename_all!"=="Y" (
     if "!file_pattern:~0,1!"== "." (
-         set /p new_extension="Enter new extension (.opus): "
+         set /p new_extension="Enter new extension (eg. .opus): "
          for /l %%i in (1,1,%index%) do (
              if defined dir[%%i] (
                  set "current_dir=!dir[%%i]!"
@@ -132,7 +132,7 @@ if !found! equ 0 (
 )
 echo Found !found! file(s) ending with !file_pattern!.
 echo.
-set /p new_extension="Enter new extension (.opus): "
+set /p new_extension="Enter new extension (eg. .opus): "
 
 call :rename "%target_dir%" "!file_pattern!" "!new_extension!"
 echo Renaming complete.
